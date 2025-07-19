@@ -1,0 +1,37 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Build output
+/dist/
+/build/
+
+# IDE or editor directories and files
+.idea/
+/.vscode/
+/*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore package-lock.json or yarn.lock if you don’t want to commit them
+# package-lock.json
+# yarn.lock
+
+# Optional: Ignore test coverage reports
+/coverage/
+
+# Optional: Ignore directories for transpiled code (e.g., Babel)
+*.map
+
+# Optional: Ignore test files if you don’t want to track them
+/tests/
+
+# lock files
+/package-lock.json
